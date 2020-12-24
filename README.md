@@ -25,3 +25,5 @@ The time complexity is extremely huge to go through every single nonisomorphic g
 4. If m<5 and n<5, return the graph G.
 
 Still the probablity of finding valid graph that prove R(5,5) ≠ 43 is extremely small, but from the perspective of volunteer-computing, it's much easier than the traversal of all graph networks.
+
+# 4. 
