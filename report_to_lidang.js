@@ -22,5 +22,5 @@ function report_to_lidang(edgeSet)
      var jsonResponse = xmlhttp.response;
      console.log(jsonResponse)
   };
-  xmlhttp.send(JSON.stringify({ "email": edgeSet}));
+  xmlhttp.send(JSON.stringify({ "graph": edgeSet}));
 }
