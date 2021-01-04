@@ -4,7 +4,7 @@ function report_to_lidang(edgeSet)
      the whole graph (in list of edge set format) will be sent to a google function
      at google cloud in this format:
      {
-        "edgeSet":[[1,5],[6,23],...,[12,1]]
+        "graph":[[1,5],[6,23],...,[12,1]]
      }
      
   */
