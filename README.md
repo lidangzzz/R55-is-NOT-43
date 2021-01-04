@@ -1,7 +1,7 @@
 # R55-is-NOT-43
 - Let's try to solve the 100-year-old math problem: **The Ramsey Number: R(5,5) ≠ 43** together!
 - Let's build **The Easiest** volunteer computing framework in **30 lines of code**!
-- Let's build **The Real cross-platform** volunteer computing client code  which **EXECUTING TOTALLY IN YOUR BROWSER WITHOUT INSTALLATION OR CONFIGURATION** -- just open and run!
+- Let's build **The Real cross-platform** volunteer computing client code  which **EXECUTING TOTALLY IN YOUR BROWSER** without installation or configuration -- just open and run!
 - Let's build a serverless Google Cloud Function as a server for volunteer computing framework in **30 lines of code**!
 - Let's solve the great math problem together!
 
