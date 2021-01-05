@@ -1,10 +1,10 @@
-function report_to_lidang(edgeSet)
+function report_to_lidang(matrix)
 {
   /* When a volunteer finds a valid 43-node graph with clique < 5 and independent set < 5
-     the whole graph (in list of edge set format) will be sent to a google function
+     the whole graph (in matrix format) will be sent to a google function
      at google cloud in this format:
      {
-        "graph":[[1,5],[6,23],...,[12,1]]
+        "matrix":[[1,1,...]  , .....]
      }
      
   */
@@ -22,5 +22,5 @@ function report_to_lidang(edgeSet)
      var jsonResponse = xmlhttp.response;
      console.log(jsonResponse)
   };
-  xmlhttp.send(JSON.stringify({ "graph": edgeSet}));
+  xmlhttp.send(JSON.stringify({ "matrix": matrix}));
 }
