@@ -1,11 +1,14 @@
 # Ramsey Number R(5,5) is NOT 43 (R55-is-NOT-43)
+
+## TL;DR
+
 - Let's try to solve the 100-year-old math problem: **The Ramsey Number: R(5,5) ≠ 43** together!
 - Let's build **The Easiest** volunteer computing framework in **30 lines of code**!
 - Let's build **The Real cross-platform** volunteer computing client code  which **EXECUTING TOTALLY IN YOUR BROWSER** without installation or configuration -- just open and run!
 - Let's build a serverless Google Cloud Function as a server for volunteer computing framework in **30 lines of code**!
 - Let's solve the great math problem together!
 
-# 1. What is Ramsey Number?
+## 1. What is Ramsey Number?
 
 Ramsey number is math problem that finding the minimum number of vertices k = R(m,n) so that any undirected graph with k vertices always contains a clique of m or an independent set of m. 
 
@@ -30,4 +33,6 @@ The time complexity is extremely huge to go through every single nonisomorphic g
 
 Still the probablity of finding valid graph that prove R(5,5) ≠ 43 is extremely small, but from the perspective of volunteer-computing, it's much easier than the traversal of all graph networks.
 
-# 4. 
+# 4. How is the serveless volunteer computing architecture designed?
+
+
