@@ -8,6 +8,12 @@
 - Let's build a serverless Google Cloud Function as a server for volunteer computing framework in **30 lines of code**!
 - Let's solve the great math problem together!
 
+## 0. How to join?
+
+Here it is:
+
+[https://hedgehog-lab.github.io/?your_url=https://raw.githubusercontent.com/lidangzzz/R55-is-NOT-43/main/lets-find-ramsey-5-5-now.js&auto_run=true](https://hedgehog-lab.github.io/?your_url=https://raw.githubusercontent.com/lidangzzz/R55-is-NOT-43/main/lets-find-ramsey-5-5-now.js&auto_run=true)
+
 ## 1. What is Ramsey Number?
 
 Ramsey number is math problem that finding the minimum number of vertices k = R(m,n) so that any undirected graph with k vertices always contains a clique of m or an independent set of m. 
