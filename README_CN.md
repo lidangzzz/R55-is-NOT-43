@@ -12,7 +12,9 @@
 
 但是我发现BOINC这个框架并不友好，文档看得我一头雾水，用起来也各种麻烦费事，于是我开始试着用Hedgehog Lab来写一个简单的、好用的volunteer computing的框架。简单来说就是，我写了半个network graph库（ https://github.com/Hedgehog-Computing/Hedgehog-Network ），然后用户可以很轻松地把一些函数零安装、零配置地import进来（ https://github.com/lidangzzz/R55-is-NOT-43/blob/main/lets-find-ramsey-5-5-now.js ）
 
+```js
 *importHedgehog-Network: generateRamdomUndirectedGraph, complementUndirectedGraph, matrix2edgeSet, maxOrderOfClique
+```
 
 这样当用户寻找到一个m<5 && n<5的图的时候，直接send到google cloud上的function，判断一下即可放入数据库中。
 
