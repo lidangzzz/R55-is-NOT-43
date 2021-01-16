@@ -33,6 +33,4 @@ The time complexity is extremely huge to go through every single nonisomorphic g
 
 Still the probablity of finding valid graph that prove R(5,5) ≠ 43 is extremely small, but from the perspective of volunteer-computing, it's much easier than the traversal of all graph networks.
 
-# 4. How is the serveless volunteer computing architecture designed?
-
 
