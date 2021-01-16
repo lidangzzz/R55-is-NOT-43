@@ -1,5 +1,7 @@
 # Ramsey Number R(5,5) is NOT 43 (R55-is-NOT-43)
 
+[一些中文版本的补充](https://github.com/lidangzzz/R55-is-NOT-43/blob/main/README_CN.md)
+
 ## TL;DR
 
 - Let's try to solve the 100-year-old math problem: **The Ramsey Number: R(5,5) ≠ 43** together!
