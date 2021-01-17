@@ -30,11 +30,12 @@ while (true){
         print("max independeny set = " + maxIndependentSet );
         print("The edge set is: ")
         printEdges(matrix2edgeSet(graphMatrix))
+        // And don't forget to share it with Lidang!!!
+        report_to_lidang(graphMatrix);
         break;
     }
     
-    // And don't forget to share it with Lidang!!!
-    report_to_lidang(graphMatrix);
+
 }
 toc();
 
